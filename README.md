@@ -66,20 +66,6 @@ Provided actionable recommendations based on data
 
 (Customize this section with your actual insights)
 
-▶️ How to Run
-1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-2. Install Dependencies
-pip install -r requirements.txt
-3. Run Python Scripts / Notebook
-jupyter notebook
-4. Database Setup
-Create a database in PostgreSQL / MySQL / SQL Server
-Update connection string in the script
-Run SQL scripts to create tables and load data
-5. Open Power BI Dashboard
-Open .pbix file in Power BI Desktop
 📌 Conclusion
 
 This project showcases practical skills in data analysis, SQL querying, and data visualization. It demonstrates the ability to transform raw data into meaningful insights and present them effectively for decision-making.
